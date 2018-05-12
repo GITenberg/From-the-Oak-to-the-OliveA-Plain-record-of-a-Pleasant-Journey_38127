@@ -1,0 +1,43 @@
+_repo: From-the-Oak-to-the-OliveA-Plain-record-of-a-Pleasant-Journey_38127
+_version: 0.1.0
+alternative_title: Records of a pleasant journey
+covers:
+- cover_type: archival
+  image_path: 38127-h/images/cover_lg.jpg
+creator:
+  author:
+    agent_name: Howe, Julia Ward
+    aliases:
+    - Ward, Julia
+    - Howe, Mrs. Samuel Gridley
+    birthdate: 1819
+    deathdate: 1910
+    gutenberg_agent_id: '35885'
+    url: http://www.gutenberg.org/2009/agents/35885
+    wikipedia: http://en.wikipedia.org/wiki/Julia_Ward_Howe
+description: ''
+gutenberg_issued: '2011-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38127'
+  lccn: '03011251'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Europe -- Description and travel'
+- !lcc 'D'
+tableOfContents: Preliminaries -- The voyage -- Liverpool -- Chester; Lichfield --
+  London -- St. Paul's; the Japanese -- Society -- The Channel -- Paris and thence
+  -- Marseilles -- Rome -- St. Peter's -- Supper of the pilgrims -- Easter -- Works
+  of art -- Piazza Navona; the Tombola -- Sundays in Rome -- Catacombs -- Via Appia
+  and the columbaria -- Naples; the journey -- The museum -- Naples; excursions --
+  The Capuchin -- Baja -- Capri -- Sorrento -- Florence -- Palazzo Pitti -- Venice
+  -- Greece and the voyage thither -- Syra -- Piræus; Athens -- Expeditions; Nauplia
+  -- Argos -- Egina -- Days in Athens -- Excursions -- Hymettus -- Items -- The palace
+  -- The cathedral -- The missionaries -- The piazza -- Departure -- Return voyage
+  -- Farther -- Fragments -- Flying footsteps -- Munich -- Switzerland -- The Great
+  Exposition -- Pictures in Antwerp.
+title: 'From the Oak to the Olive: A Plain record of a Pleasant Journey'
+url: http://www.gutenberg.org/ebooks/38127
