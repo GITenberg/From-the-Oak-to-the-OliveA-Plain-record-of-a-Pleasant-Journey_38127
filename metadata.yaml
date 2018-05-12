@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35885
     wikipedia: http://en.wikipedia.org/wiki/Julia_Ward_Howe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38127#From-the-Oak-to-the-OliveA-Plain-record-of-a-Pleasant-Journey
 gutenberg_issued: '2011-11-24'
 gutenberg_type: Text
 identifiers:
